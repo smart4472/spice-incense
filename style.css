@@ -30,3 +30,19 @@ input[type="search"] {
     background-image: url("img/slide.jpg");
     background-repeat: no-repeat;
 }
+.para
+{
+    font-size: 14px;
+    font-family: 'Play', sans-serif;
+    color: #747373;
+    font-style: normal;
+    font-weight: 400;
+}
+.heading
+{
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+    color: #3e3d3d;
+    font-style: normal;
+    font-weight: 400;
+}
